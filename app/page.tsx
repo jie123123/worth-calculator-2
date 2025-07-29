@@ -6,11 +6,13 @@ export default function Home() {
   return (
     <>
       {/* 竖向广告弹窗 */}
-      <VerticalAd />
-      
+    
+        {/* <VerticalAd /> */}
+     
       <main className="min-h-screen bg-gray-50 dark:bg-gray-900">
         {/* 顶部横向 Banner */}
-        <HorizontalBanner />
+    
+         {/* <HorizontalBanner />  */}
         
         {/* 主要内容 */}
         <Calculator />
