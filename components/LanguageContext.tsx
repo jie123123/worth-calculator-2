@@ -579,7 +579,7 @@ const translations: Record<Language, Record<string, string>> = {
     'redirect_notice': '已自动跳转，新网址无需科学上网',
     'visits': '访问量',
     'visitors': '访客数',
-    'star_request': '如果觉得好用，请给项目点个⭐Star吧！',
+    'star_request': '如果觉得好用，使用后分享报告给好友吧⭐！',
     'history': '历史记录',
     'no_history': '暂无历史记录',
     'history_notice': '查看报告后将自动保存',
