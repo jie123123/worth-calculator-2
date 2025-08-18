@@ -114,11 +114,6 @@ export default function RootLayout({
             </div>
             <div className="text-center">
               <span className="text-[10px] text-gray-400 dark:text-gray-500">更多实用工具 dh.chenbao.online
-                <a 
-                href="https://dh.chenbao.online/" 
-                target="_blank"
-                >
-                  </a>
               </span>
             </div>
           </div>
