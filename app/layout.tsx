@@ -73,7 +73,7 @@ export default function RootLayout({
               </a>
               
               <a 
-                href="https://snapsolver.zippland.com/" 
+                href="http://yyy.chenbao.online/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center"
@@ -87,7 +87,7 @@ export default function RootLayout({
               </a>
               
               <a 
-                href="https://perlerbeads.zippland.com/" 
+                href="https://sc.chenbao.online/" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative flex flex-col items-center"
